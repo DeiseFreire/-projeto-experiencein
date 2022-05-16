@@ -2,7 +2,7 @@
 
 from django.db import models
 
-class Perfil(object):
+class Perfil(models.Model):
     def __init__(self, nome='', email='', telefone= '', nome_empresa=''):
         self.nome = nome
         self.email = email
