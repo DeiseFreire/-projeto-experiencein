@@ -5,7 +5,5 @@ class Perfil(models.Model):
     email = models.CharField(max_length=255, null=False)     
     telefone = models.CharField(max_length=15, null=False)
     nome_empresa = models.CharField(max_length=255, null=False)
-
     def convidar(self, perfil_convidado):
-        convite = Convite(solicitante=self, convidado=perfil_convidado)
-        convite.save()
+        Convite(solicitante=self, convidado=perfil_convidado).save()
