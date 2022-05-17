@@ -2,6 +2,10 @@
 from django.shortcuts import render
 from perfis.models import Perfil
 # código comentado
+# modificando a função convidar
+def convidar(request, perfil_id):
+    perfil_a_convidar = Perfil.objects.get(id=perfil_id)
+    perfil_logado = get_perfil_logado(request)
+    perfil_logado.convidar(perfil_a_convidar)
 def get_perfil_logado(request):
-   return Perfil.objects.get(id=1) 
-   # [IMPORTANTE]: Trocar o ID por um que esteja cadastrado 
+    return Perfil.objects.get(id=1)
