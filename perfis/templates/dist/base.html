@@ -6,10 +6,10 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{% static " styles/bootstrap.css " %}" rel="stylesheet">
     <link href="{% static " styles/main.css " %}" rel="stylesheet">
-    <title>ExperienceIn</title>
+    <title>experienceIn</title>
 </head>
 
 <body>
@@ -23,7 +23,7 @@
         </div>
 
         <div class="row content">
-            <!-- conteúdo da página entraria aqui -->
+            {% block body %} {% endblock %}
         </div>
     </div>
 </body>
