@@ -1,4 +1,5 @@
 <!-- experiencein/perfis/templates/index.html -->
+
 {% load staticfiles %}
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -11,8 +12,17 @@
 </head>
 
 <body>
-    <h1>Index</h1>
-    <!-- código omitido -->
+
+    <div class="header">
+        <ul class="nav nav-pills pull-right">
+            <li class=""><a href="{% url 'index' %}">NOME</a></li>
+            <li class=""><a href="/logout/">Logout</a></li>
+        </ul>
+        <h3 class="text-muted">ExperienceIn</h3>
+    </div>
+
+    <!-- código posterior omitido -->
+
 </body>
 
 </html>
