@@ -6,5 +6,7 @@ a interface do sistema.
 
 ## **Execução**
 Executar o aplicativo
-Basta executar este comando:
-'python source/manage.py runserver'
+Basta executar este comando
+```
+python source/manage.py runserver
+```
