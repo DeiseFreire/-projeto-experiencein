@@ -29,6 +29,8 @@ Para executar o aplicativo basta digitar este comando
 ```
 python source/manage.py runserver
 ```
+## **Para acessar a aplicação**
+[Clique aqui para ver o projeto funcionando](http://deisefreire.pythonanywhere.com/login/?next=/)
 
 ### **Suporte**
 Em caso de dúvidas ou problemas, entre em contato comigo: deise.freire@estudante.ifb.edu.br
