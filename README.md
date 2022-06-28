@@ -1,6 +1,6 @@
 # Projeto experiencein
 
-É um sistema de login rápido, fácil e simples.
+Este projeto de login rápido, fácil e simples foi desenvolvido para submissão e avaliação na disciplina Programação para Internet, II ministrada pelo professor Fábio Henrique Monteiro de Oliveira, para a obtenção do grau de tecnológo em Sistemas para Internet. 
 
 ![Isso é uma imagem](https://s3.amazonaws.com/caelum-online-public/django/img/11/login.png)
 
