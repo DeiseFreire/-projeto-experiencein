@@ -10,8 +10,7 @@ Este projeto de login rápido, fácil e simples foi desenvolvido para submissão
 Professor: Fábio Henrique Monteiro de Oliveira
 
 ## **Metodologia**
-linguagem de programação
-Python-Django com padrão Model-View-Template (MVT); framework Bootstrap para
+Linguagem de programação Python-Django com padrão Model-View-Template (MVT); framework Bootstrap para
 a interface do sistema.
 
 ## **Requisitos**
