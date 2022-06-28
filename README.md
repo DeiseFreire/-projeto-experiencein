@@ -11,8 +11,8 @@ a interface do sistema.
 - Idioma: Português
 
 ## **Execução**
-Executar o aplicativo
-Basta executar este comando
+Para executar o aplicativo basta digitar este comando
+
 ```
 python source/manage.py runserver
 ```
