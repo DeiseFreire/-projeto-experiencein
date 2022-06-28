@@ -1,4 +1,7 @@
 # Projeto experiencein
+
+![Isso é uma imagem](https://s3.amazonaws.com/caelum-online-public/django/img/11/login.png)
+
 ## **Metodologia**
 linguagem de programação
 Python-Django com padrão Model-View-Template (MVT); framework Bootstrap para
