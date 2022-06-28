@@ -4,6 +4,11 @@ Este projeto de login rápido, fácil e simples foi desenvolvido para submissão
 
 ![Isso é uma imagem](https://s3.amazonaws.com/caelum-online-public/django/img/11/login.png)
 
+
+## **Orientador do projeto**
+
+Professor: Fábio Henrique Monteiro de Oliveira
+
 ## **Metodologia**
 linguagem de programação
 Python-Django com padrão Model-View-Template (MVT); framework Bootstrap para
@@ -22,5 +27,5 @@ Para executar o aplicativo basta digitar este comando
 python source/manage.py runserver
 ```
 
-## **Suporte**
+### **Suporte**
 Em caso de dúvidas ou problemas, entre em contato comigo: deise.freire@estudante.ifb.edu.br
