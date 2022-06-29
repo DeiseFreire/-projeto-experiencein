@@ -15,6 +15,7 @@ Linguagem de programação Python-Django com padrão Model-View-Template (MVT). 
 ## **Requisitos**
 - Python 3.7
 - Django 2.2
+- Bootstrap 3.0.
 
 ## **Funcionalidades**
 **Login**
