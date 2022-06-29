@@ -25,10 +25,12 @@ a interface do sistema.
 
 ## **Execução**
 Para executar o aplicativo basta digitar este comando
-
 ```
 python source/manage.py runserver
 ```
+## Para abrir a página no seu navegador local 
+`http://localhost:8000`
+
 ## **Para acessar a aplicação**
 [Clique aqui para ver o projeto na web](http://deisefreire.pythonanywhere.com/login/?next=/)
 
