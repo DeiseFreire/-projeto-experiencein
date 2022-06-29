@@ -17,7 +17,7 @@ a interface do sistema.
 - Python 3.7
 - Django 2.2
 
-## **Funcionalidade**
+## **Funcionalidades**
 **Login**
 - por nome de usuário & senha
 - por e-mail & senha
