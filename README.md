@@ -19,7 +19,7 @@ Linguagem de programação Python-Django com padrão Model-View-Template (MVT), 
 
 ## **Funcionalidades**
 **Login**
-- por e-mail & senha
+- Autenticação com email & senha
 - Idioma: Português
 
 ## **Execução**
