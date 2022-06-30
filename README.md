@@ -10,7 +10,7 @@ Trata-se de projeto guiado de protótipo de rede socal, sendo uma das funcionali
 Professor: Fábio Henrique Monteiro de Oliveira
 
 ## **Metodologia**
-Linguagem de programação Python-Django com padrão Model-View-Template (MVT). Feito usando a linguagem Python e o framework Django.
+Linguagem de programação Python-Django com padrão Model-View-Template (MVT), usando a linguagem Python e o framework Django.
 
 ## **Requisitos**
 - Python 3.7
