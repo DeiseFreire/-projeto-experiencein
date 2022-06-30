@@ -1,6 +1,6 @@
 # Projeto experiencein
 
-Trata-se de projeto guiado de login rápido, fácil e simples desenvolvido para submissão e avaliação na disciplina Programação para Internet II ministrada pelo professor Fábio Henrique Monteiro de Oliveira, como parte dos requisitos para a obtenção do grau de tecnólogo em Sistemas para Internet.
+Trata-se de projeto guiado de login rápido, fácil e simples desenvolvido para submissão e avaliação na disciplina Programação para Internet II ministrada pelo professor Fábio Henrique Monteiro de Oliveira, como parte dos requisitos para aprovação na disciplina.
 
 ![Isso é uma imagem](https://s3.amazonaws.com/caelum-online-public/django/img/11/login.png)
 
