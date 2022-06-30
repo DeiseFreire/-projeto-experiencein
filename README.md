@@ -33,5 +33,8 @@ python source/manage.py runserver
 ## **Para acessar a aplicação**
 [Clique aqui para ver o projeto na web](http://deisefreire.pythonanywhere.com/login/?next=/)
 
+## **Engenharia de software - Documentação**
+`https://docs.google.com/document/d/1vjUeSGtcDHyeCTOdQ5ApnigkOrYZhB_tXEpiXrW_CHE/edit`
+
 ### **Suporte**
 Em caso de dúvidas ou problemas, entre em contato comigo: deise.freire@estudante.ifb.edu.br
