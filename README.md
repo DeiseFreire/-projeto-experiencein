@@ -31,7 +31,7 @@ python source/manage.py runserver
 `http://localhost:8000`
 
 ## **Para acessar a aplicação**
-[Clique aqui para ver o projeto na web](http://deisefreire.pythonanywhere.com/login/?next=/)
+[`Clique aqui para ver o projeto na web`](http://deisefreire.pythonanywhere.com/login/?next=/)
 
 ## **Engenharia de software**
 [`Clique aqui para ver a documentação do projeto`](https://docs.google.com/document/d/1vjUeSGtcDHyeCTOdQ5ApnigkOrYZhB_tXEpiXrW_CHE/edit?usp=sharing)
