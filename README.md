@@ -37,4 +37,4 @@ python source/manage.py runserver
 [`Clique aqui para ver a documentação do projeto`](https://docs.google.com/document/d/1vjUeSGtcDHyeCTOdQ5ApnigkOrYZhB_tXEpiXrW_CHE/edit?usp=sharing)
 
 ### **Suporte**
-Em caso de dúvidas ou problemas, entre em contato comigo: `deise.freire@estudante.ifb.edu.br`
+Em caso de dúvidas ou problemas, entre em contato comigo: deise.freire@estudante.ifb.edu.br
